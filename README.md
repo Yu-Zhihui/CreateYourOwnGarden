@@ -1,4 +1,4 @@
-# Create Your Own GardenArduino
+# Create Your Own Garden
 
 **Interactive Installation Space Design**
 
